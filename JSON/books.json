@@ -1,0 +1,11 @@
+[
+  {"name": "War and Peace",
+    "author": "L.Tolstoy",
+      "year": "1867"},
+   {"name": "Kashtanka",
+    "author": "A.Chekhov",
+      "year": "1887"},
+   {"name": "Crime and Punishment",
+    "author": "F.Dostoevsky",
+      "year": "1866"}
+]
